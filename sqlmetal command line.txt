@@ -1,0 +1,1 @@
+D:\Program (x86)\Microsoft Visual Studio 14.0>SqlMetal /server:DESKTOP-JOB29A9 /database:"CLICS3" /code:g:\CLICS3.cs
